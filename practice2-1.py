@@ -12,7 +12,7 @@ clear()
 
 
 
-## the program crashes when only using normal input.
+
 ##  use the wait_key_press() function in the library
 userinput = wait_key_press()
 ## if a key is pressed...
